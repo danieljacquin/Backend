@@ -83,9 +83,7 @@
                 <div class="title m-b-md">
                     Laravel
                 </div>
-
-               <p>Kevin ahi basiquito</p>
-               <p>Camilo el desplegador</p>
+               <p>La proxima no hay clases</p>
             </div>
         </div>
     </body>
