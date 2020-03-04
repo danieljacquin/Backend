@@ -83,7 +83,7 @@
                 <div class="title m-b-md">
                     Laravel
                 </div>
-               <p>La proxima no hay clases</p>
+               <p>La proxima clase no hay examen de ingenieria de sotfware 2</p>
             </div>
         </div>
     </body>
